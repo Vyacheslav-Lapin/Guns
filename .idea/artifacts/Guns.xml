@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Guns">
+    <output-path>out/artifacts/Guns</output-path>
+    <root id="archive" name="Guns.war" />
+  </artifact>
+</component>
